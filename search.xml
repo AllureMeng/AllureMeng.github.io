@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>myFirstBlog</title>
-      <link href="2021/06/05/myfirstblog/"/>
-      <url>2021/06/05/myfirstblog/</url>
+      <title>thirdBlog</title>
+      <link href="2021/06/25/thirdblog/"/>
+      <url>2021/06/25/thirdblog/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to my Blog！<br>希望能和大家一起学习！</p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/BlogImg/2.jpg" alt="Alt pic"><br><img src="/BlogImg/1.jpg" alt="Alt pic"><br><img src="/BlogImg/0.jpg"></p>]]></content>
       
       
       
@@ -17,11 +17,24 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="2021/06/05/hello-world/"/>
-      <url>2021/06/05/hello-world/</url>
+      <title>secondBlog</title>
+      <link href="2021/06/25/secondblog/"/>
+      <url>2021/06/25/secondblog/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Hello-Hexo"><a href="#Hello-Hexo" class="headerlink" title="Hello Hexo"></a>Hello Hexo</h2><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>年有季节，春夏秋冬；日有季节，黑白交替；生命也该有季节，那是生老病死。</p><p>　　乔治、赫伯特说过：“一个人如果20岁不英俊，30岁不强壮，40岁不富有，50岁不睿智，那么他这辈子就别想英俊、强壮、富有和睿智了。”这是西方人眼中的生命的季节。</p><p>　　孔老先生说过：“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。”也属一种对生命的季节的限定，但孔老先生只有勇气限定自己，怯于给别人下论断。</p><p>　　不管怎样，正如中国古话所说：“朝闻道，夕死可矣。”它告诉人们：不论在什么时候，只要你明白了生命的好处所在，你就开始了生命的春天。<br>年有季节，春夏秋冬；日有季节，黑白交替；生命也该有季节，那是生老病死。</p><p>　　乔治、赫伯特说过：“一个人如果20岁不英俊，30岁不强壮，40岁不富有，50岁不睿智，那么他这辈子就别想英俊、强壮、富有和睿智了。”这是西方人眼中的生命的季节。</p><p>　　孔老先生说过：“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。”也属一种对生命的季节的限定，但孔老先生只有勇气限定自己，怯于给别人下论断。</p><p>　　不管怎样，正如中国古话所说：“朝闻道，夕死可矣。”它告诉人们：不论在什么时候，只要你明白了生命的好处所在，你就开始了生命的春天。年有季节，春夏秋冬；日有季节，黑白交替；生命也该有季节，那是生老病死。</p><p>　　乔治、赫伯特说过：“一个人如果20岁不英俊，30岁不强壮，40岁不富有，50岁不睿智，那么他这辈子就别想英俊、强壮、富有和睿智了。”这是西方人眼中的生命的季节。</p><p>　　孔老先生说过：“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。”也属一种对生命的季节的限定，但孔老先生只有勇气限定自己，怯于给别人下论断。</p><p>　　不管怎样，正如中国古话所说：“朝闻道，夕死可矣。”它告诉人们：不论在什么时候，只要你明白了生命的好处所在，你就开始了生命的春天。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>firstBlog</title>
+      <link href="2021/06/25/firstblog/"/>
+      <url>2021/06/25/firstblog/</url>
+      
+        <content type="html"><![CDATA[<h2 id="3223232"><a href="#3223232" class="headerlink" title="3223232"></a>3223232</h2><h5 id="535545"><a href="#535545" class="headerlink" title="535545"></a>535545</h5><p>我的GitHub仓库:<a href="https://github.com/AllureMeng/AllureMeng.github.io">github仓库</a></p><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p><img src="/BlogImg/1.jpg" alt="Alt pic"><br><strong>这是加粗</strong><br><strong>这也是加粗</strong><br><em>这是倾斜</em><br><em>这也是倾斜</em><br><em><strong>这是加粗倾斜</strong></em><br><del>这是加删除线</del></p><hr><p><font face="黑体">我是黑体字</font><br><font face="微软雅黑">我是微软雅黑</font><br><font face="STCAIYUN">我是华文彩云</font><br><font color=red>我是红色</font><br><font color=#008000>我是绿色</font><br><font color=Blue>我是蓝色</font><br><font size=5>我是尺寸</font><br><font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font></p>]]></content>
       
       
       
